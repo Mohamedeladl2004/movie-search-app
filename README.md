@@ -20,6 +20,12 @@ Search for your favorite movies, view posters, and explore movie details — all
 ![App Screenshot](./public/screenshot.png)
 
 
+## 🌍 Live Demo
+
+🔗 [View the Website](https://your-vercel-link.vercel.app)
+
+
+
 ## 🛠 Tech Stack
 
 - Next.js
