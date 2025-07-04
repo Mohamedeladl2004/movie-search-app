@@ -15,6 +15,11 @@ Search for your favorite movies, view posters, and explore movie details — all
 
 ---
 
+## 📸 Preview
+
+![App Screenshot](./public/screenshot.png)
+
+
 ## 🛠 Tech Stack
 
 - Next.js
